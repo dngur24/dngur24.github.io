@@ -56,7 +56,7 @@
 > 압축 해제 후 내부 모든 파일과 디렉터리를 로컬저장소로 이동한다.
 
     *이미 본인의 로컬 저장소에 같은 이름의 파일이 있는 경우,
-    >기존 파일 대신 새로운 파일을 선택한다.
+    기존 파일 대신 새로운 파일을 선택한다.
 
 > 이후 변경된 사항은 위에서 언급했던 방식으로 push하기
 
@@ -72,14 +72,14 @@
 >    >username : 계정이름
 
 * 6.2 .gitginore 수정
-> # Misc
-> _sass/dist
-> assets/js/dist
+> *# Misc
+> *_sass/dist
+> *assets/js/dist
 >처음에는 위와 같은 내용
 
-> # Misc
-> # _sass/dist
-> # assets/js/dist
+> *# Misc
+> *# _sass/dist
+> *# assets/js/dist
 > 이렇게 수정한다.
 
 >파일 수정 후 commit 메세지 입력 후 push
