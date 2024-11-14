@@ -6,5 +6,5 @@ and this is test, too
 
 ### Now i'll upload image
 
-![Alt text](C:\Users\kcgfa\Downloads\wp9637316.jpg)
-![Alt text](C:\Users\kcgfa\Downloads\wp9637316.jpg "Optional title")
+![Alt text](https://github.com/dngur24/for_blog_image_file/issues/1#issue-2658760771)
+![Alt text](https://github.com/dngur24/for_blog_image_file/issues/1#issue-2658760771 "Optional title")
