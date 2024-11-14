@@ -73,13 +73,13 @@
 
 * 6.2 .gitginore 수정
 > *# Misc
-> *_sass/dist
-> *assets/js/dist
+>   > *_sass/dist
+>   >    >*assets/js/dist
 >처음에는 위와 같은 내용
 
-> *# Misc
-> *# _sass/dist
-> *# assets/js/dist
+> * # Misc
+>   > * # _sass/dist
+>    >    > * # assets/js/dist
 > 이렇게 수정한다.
 
 >파일 수정 후 commit 메세지 입력 후 push
