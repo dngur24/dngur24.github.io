@@ -77,7 +77,7 @@
 >   >    >*assets/js/dist
 >처음에는 위와 같은 내용
 
-> * # Misc
+> * \# Misc
 >   > * # _sass/dist
 >    >    > * # assets/js/dist
 > 이렇게 수정한다.
