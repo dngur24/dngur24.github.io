@@ -14,6 +14,7 @@ Make My Blog(검색노출 설정하기)
 > sitemap.xml 파일에 밑에 있는 코드 삽입
 
 \'\'\'xml
+<note>
 ---
 layout: null
 ---
@@ -46,6 +47,7 @@ layout: null
     </url>
     {% endfor %}
 </urlset>
+</note>
 \'\'\'
 
 > 당연히 파일도 commit을 한다
