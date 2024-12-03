@@ -16,7 +16,8 @@ repo: 칸에 자신의 깃허브 계정과 블로그 레포지터리를 입력
 자신의 블로그 코드에 해당 코드 삽입해야 하니 옆에 켜두기
 
 코드 형식
-\'\'\'xml
+```html
+
 <note>
 <script src="https://utteranc.es/client.js"
         repo="[ENTER REPO HERE]"
@@ -26,7 +27,8 @@ repo: 칸에 자신의 깃허브 계정과 블로그 레포지터리를 입력
         async>
 </script>
 </note>
-\'\'\'
+
+```
 
 이 코드가 옆에 있어야 편하다(자신의 블로그에 맞춰 변화된다)
 
